@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Azenis-One
+Comment=A theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Azenis-One
+MetacityTheme=Azenis-One
+IconTheme=Azenis-One Icons
+CursorTheme=Azenis48
+ButtonLayout=menu:minimize,maximize,close
